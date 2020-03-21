@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.2"
+  },
+  "devDependencies": {
+    "@types/elliptic": "^6.4.12",
+    "@types/node": "^13.9.0"
+  }
+}

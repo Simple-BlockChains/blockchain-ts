@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ESNext",
+        "types": ["node"],
+        "outDir": "build",
+        "removeComments": true,
+        "pretty": true
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ]
+}
